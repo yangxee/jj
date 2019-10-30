@@ -2,19 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="0d5619ff-9246-4598-8502-d6fda40cebb7" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/shixunyuekao.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/bean.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/yangxiaoyu/ClassPathXml/BeanFactory.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/yangxiaoyu/ClassPathXml/ClassPathXmlApplicationContext.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/yangxiaoyu/Ioc.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/yangxiaoyu/bean/IocDao.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/yangxiaoyu/bean/IocDaoImpl.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/yangxiaoyu/service/IocInterfei.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/yangxiaoyu/service/IocService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -39,8 +27,7 @@
     <select />
   </component>
   <component name="DefaultGradleProjectSettings">
-    <option name="testRunner" value="GRADLE" />
-    <option name="delegatedBuild" value="true" />
+    <option name="isMigrated" value="true" />
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
@@ -163,6 +150,27 @@
               <item name="shixunyuekao" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="shixunyuekao" type="b2602c69:ProjectViewProjectNode" />
+              <item name="shixunyuekao" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="shixunyuekao" type="b2602c69:ProjectViewProjectNode" />
+              <item name="shixunyuekao" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="shixunyuekao" type="b2602c69:ProjectViewProjectNode" />
+              <item name="shixunyuekao" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="yangxiaoyu" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
@@ -222,15 +230,31 @@
       <option name="presentableId" value="Default" />
       <updated>1572312229535</updated>
       <workItem from="1572312233551" duration="4688000" />
-      <workItem from="1572395524495" duration="1171000" />
+      <workItem from="1572395524495" duration="1615000" />
     </task>
+    <task id="LOCAL-00001" summary="1231231">
+      <created>1572397566952</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1572397566952</updated>
+    </task>
+    <task id="LOCAL-00002" summary="1231231">
+      <created>1572397710271</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1572397710271</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="5859000" />
+    <option name="totallyTimeSpent" value="6303000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1550" height="848" extended-state="6" />
+    <editor active="true" />
     <layout>
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2191689" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
@@ -264,6 +288,10 @@
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="1231231" />
+    <option name="LAST_COMMIT_MESSAGE" value="1231231" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/src/main/webapp" />
