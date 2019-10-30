@@ -1,0 +1,6 @@
+<beans>
+    <bean id="i" class="com.jiahao.bean.IocDaoImpl"/>
+    <bean id="iocService" class="com.jiahao.server.IocDaoServiceImpl">
+        <property name="iocDao" ref="i"></property>
+    </bean>
+</beans>
